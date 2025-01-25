@@ -1,2 +1,2 @@
 # Materials
-You found me here
+It is only for self-study purpose.
